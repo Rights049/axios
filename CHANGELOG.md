@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.7.8](https://github.com/axios/axios/compare/v1.7.7...v1.7.8) (2025-02-05)
+
 ## [1.7.7](https://github.com/axios/axios/compare/v1.7.6...v1.7.7) (2024-08-31)
 
 
